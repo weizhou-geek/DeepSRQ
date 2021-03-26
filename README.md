@@ -18,6 +18,8 @@ matlab convert_patch.m
 ```
 
 ## Read Data
+Followed the formats as:
+
 ```
 train_structure.txt: /data/zhouw/QADS/structure_patch32/img05_3_08/img05_3_08-1.bmp 0.62647
 
