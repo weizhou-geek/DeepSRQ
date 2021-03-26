@@ -8,6 +8,11 @@ Three databases are involved in our experiments, inluding SRID, CVIU, and QADS. 
 ```
 matlab extract_structure.m
 ```
+```
+python extract_texture.py
+```
+
+
 
 ## Citation
 You may cite it in your paper. Thanks a lot.
