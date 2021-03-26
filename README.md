@@ -12,6 +12,11 @@ matlab extract_structure.m
 python extract_texture.py
 ```
 
+## Divide Images into Patches
+```
+matlab convert_patch.m
+```
+
 ## Training
 ```
 python train_model.py
