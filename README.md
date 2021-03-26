@@ -1,10 +1,10 @@
 # DeepSRQ
-Blind quality assessment for image superresolution using deep two-stream convolutional networks, published in Information Sciences 2020
+Blind quality assessment for image superresolution using deep two-stream convolutional networks, published in Information Sciences 2020.
 
 ## Download Databases
 Three databases are involved in our experiments, inluding SRID, CVIU, and QADS. In this demo, we use the latest [QADS](http://www.vista.ac.cn/super-resolution/) as an example.
 
-
+## Extract Structure and Texture Information
 
 
 ## Citation
