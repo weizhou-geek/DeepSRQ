@@ -12,7 +12,15 @@ matlab extract_structure.m
 python extract_texture.py
 ```
 
+## Training
+```
+python train_model.py
+```
 
+## Testing
+```
+python test_model.py
+```
 
 ## Citation
 You may cite it in your paper. Thanks a lot.
