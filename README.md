@@ -17,6 +17,11 @@ python extract_texture.py
 matlab convert_patch.m
 ```
 
+## Read Data
+train_structure.txt: /data/zhouw/QADS/structure_patch32/img05_3_08/img05_3_08-1.bmp 0.62647
+train_lbp.txt: /data/zhouw/QADS/lbp_patch32/img05_3_08/img05_3_08-1.bmp 0.62647
+
+
 ## Training
 ```
 python train_model.py
