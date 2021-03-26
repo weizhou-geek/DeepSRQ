@@ -5,7 +5,9 @@ Blind quality assessment for image superresolution using deep two-stream convolu
 Three databases are involved in our experiments, inluding SRID, CVIU, and QADS. In this demo, we use the latest [QADS](http://www.vista.ac.cn/super-resolution/) as an example.
 
 ## Extract Structure and Texture Information
-
+```
+matlab extract_structure.m
+```
 
 ## Citation
 You may cite it in your paper. Thanks a lot.
