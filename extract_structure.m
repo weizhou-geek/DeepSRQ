@@ -13,7 +13,7 @@ for id=3:length(img_dir)
     savefileS = strcat('./structure_images/');
     mkdir(savefileS)
     
-	filename=img_dir(id).name;
+    filename=img_dir(id).name;
     imgname=[dirs, filename];
     img=imread(imgname);
     S = tsmooth(img,0.3);
